@@ -1,0 +1,6 @@
+{
+	"endpoint": ".../products/name.js",
+
+	"discord webhook": "https://discord.com/api/webhooks/...",
+	"content": "<@!discord id>"
+}
